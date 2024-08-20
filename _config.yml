@@ -23,7 +23,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Hao Wang (王豪)"
   avatar           : "images/HaoWang.jpg"
-  bio              : "TikTok"
+  bio              : # "TikTok"
   location         : "Xi'an"
   employer         :
   pubmed           : 
@@ -44,7 +44,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : 
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
+  dblp             : # "https://dblp.org/pid/75/6568-6.html"
   orcid            : "https://orcid.org/0000-0001-6959-7237"
   pinterest        :
   soundcloud       :
