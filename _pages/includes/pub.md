@@ -1,13 +1,12 @@
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FCS 2024</div><img src='images/Architecture_FCS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FCS 2024</div><img src='images/Architechure_FCS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cascade Context-oriented Spatio-temporal Attention Network for Efficient and Fine-grained Video-grounded Dialoguesh](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40387-w) \\
 **Hao Wang**, Bin Guo, Mengqi Chen, Yasan Ding, Ying Zhang, Zhiwen Yu
 
-- FastSpeech is the first fully parallel end-to-end speech synthesis model.
 - **Abstract**: Video-Grounded Dialogue System (VGDS), focusing on generating reasonable responses based on multi-turn dialogue contexts and a given video, has received intensive attention recently. The key to building a superior VGDS lies in efficiently reasoning over visual and textual concepts of various granularities and achieving comprehensive visual-textual multi-modality alignment. Despite remarkable research progress, existing studies suffer from identifying context-relevant video parts while disregarding the impact of redundant information in long-form and content-dynamic videos. Further, current methods usually align all semantics in different modalities uniformly using a one-time crossattention scheme, which neglects the sophisticated correspondence between various granularities of visual and textual concepts (e.g., still objects with nouns, dynamic events with verbs). To this end, we propose a novel system, namely Cascade cOntextoriented Spatial-Temporal Attention Network (COSTA), to generate reasonable responses efficiently and accurately. Specifically, COSTA first adopts a cascade attention network to localize only the most relevant video clips and regions in a coarse-to-fine manner which effectively filters the irrelevant visual semantics. Secondly, we design a memory distillation-inspired iterative visual-textual cross-attention strategy to progressively integrate visual semantics with dialogue contexts across varying granularities, facilitating extensive multi-modal alignment. Experiments on several benchmarks demonstrate significant improvements in our model over state-of-the-art methods across various metrics. Our codes are available at https://github.com/Wh2018/ COSTA.
 </div>
 </div>
