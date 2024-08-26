@@ -45,7 +45,7 @@ Mengqi Chen, Bin Guo, **Hao Wang**, Haoyu Li, Qian Zhao, Jingqi Liu, Yasan Ding,
 </div>
 </div>
 
-- `ECAI 2023` [iercingEye: Identifying Both Faint and Distinct Clues for Explainable Fake News Detection with Progressive Dynamic Graph Mining](https://ebooks.iospress.nl/doi/10.3233/FAIA230315), Yasan Ding, Bin Guo, Yan Liu, **Hao Wang**, et al.
-- `Neurocomputing 2021` [Towards information-rich, logical dialogue systems with knowledge-enhanced neural models](https://www.sciencedirect.com/science/article/pii/S0925231221013424), **Hao Wang**, Bin Guo, Wei Wu, et al.
+- `ECAI 2023` [PiercingEye: Identifying Both Faint and Distinct Clues for Explainable Fake News Detection with Progressive Dynamic Graph Mining](https://ebooks.iospress.nl/doi/10.3233/FAIA230315), Yasan Ding, Bin Guo, Yan Liu, **Hao Wang**, et al.
+- `Neurocomputing 2021` [Towards information-rich, logical dialogue systems with knowledge-enhanced neural models](https://www.sciencedirect.com/science/article/pii/S0925231221013424), **Hao Wang**, Bin Guo, et al.
 - ``TKDD 2021`` [DeepDepict: enabling information-rich, personalized product description generation with the deep multiple pointer generator network](https://dl.acm.org/doi/10.1145/3446982), Shaoyang Hao, Bin Guo, **Hao Wang**, et al.
 - ``TIST 2021`` [Conditional text generation for harmonious human-machine interaction](https://dl.acm.org/doi/abs/10.1145/3439816), Bin Guo, **Hao Wang**, Yasan Ding, et al.
