@@ -27,6 +27,7 @@
 <div class='paper-box-text' markdown="1">
 
 [The Future of Cognitive Strategy-enhanced Persuasive Dialogue Agents: New Perspectives and Trends](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40057-x) \\ 
+
 Mengqi Chen, Bin Guo, **Hao Wang**, Haoyu Li, Qian Zhao, Jingqi Liu, Yasan Ding, Yan Pan, Zhiwen Yu
 
 - Persuasion, as one of the crucial abilities in human communication, has garnered extensive attention from researchers within the field of intelligent dialogue systems. The cognitive strategy-enhanced persuasive dialogue agent (defined as CogAgent), which incorporates cognitive strategies to achieve persuasive targets through conversation, has become a predominant research paradigm. We make a comprehensive survey of CogAgent.
