@@ -15,7 +15,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML-PKDD 2024</div><img src='images/Model_Architecture_ECML.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Memory-enhanced Emotional Support Conversations with Motivation-driven Strategy Inference \\
+[Memory-enhanced Emotional Support Conversations with Motivation-driven Strategy Inference](https://ecmlpkdd.org/2024/program-accepted-papers-research-track/) \\
 **Hao Wang**, Bin Guo, Mengqi Chen, Yasan Ding, Qiuyun Zhang, Ying Zhang, Zhiwen Yu
 
 - The prevalence of mental disorders is increasing globally, highlighting the need for effective emotional support systems. Emotional Support Conversation (ESC) systems have emerged as a promising solution, providing supportive responses to individuals experiencing emotional distress. we propose MAGIC, a Memory-enhanced emotional support conversation system with motivation-driven strAteGy InferenCe.
