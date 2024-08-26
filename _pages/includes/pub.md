@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FCS 2024</div><img src='images/Architechure_FCS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cascade Context-oriented Spatio-temporal Attention Network for Efficient and Fine-grained Video-grounded Dialoguesh](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40387-w) \\
+[Cascade Context-oriented Spatio-temporal Attention Network for Efficient and Fine-grained Video-grounded Dialogue](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40387-w) \\
 **Hao Wang**, Bin Guo, Mengqi Chen, Yasan Ding, Ying Zhang, Zhiwen Yu
 
 - Video-Grounded Dialogue System (VGDS), focusing on generating reasonable responses based on multi-turn dialogue contexts and a given video, has received intensive attention recently. We propose a novel system, namely Cascade cOntext-oriented Spatial-Temporal Attention Network (COSTA), to generate reasonable responses efficiently and accurately. 
@@ -12,14 +12,13 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML-PKDD 2024</div><img src='images/Model_Architecture_ECML.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
-**Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+Memory-enhanced Emotional Support Conversations with Motivation-driven Strategy Inference \\
+**Hao Wang**, Bin Guo, Mengqi Chen, Yasan Ding, Qiuyun Zhang, Ying Zhang, Zhiwen Yu
 
-[**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
-  - This work is included by many famous speech synthesis open-source projects, such as [PaddlePaddle/Parakeet ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)](https://github.com/PaddlePaddle/PaddleSpeech), [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet) and [fairseq ![](https://img.shields.io/github/stars/pytorch/fairseq?style=social)](https://github.com/pytorch/fairseq).
+- The prevalence of mental disorders is increasing globally, highlighting the need for effective emotional support systems. Emotional Support Conversation (ESC) systems have emerged as a promising solution, providing supportive responses to individuals experiencing emotional distress. we propose MAGIC, a Memory-enhanced emotional support conversation system with motivation-driven strAteGy InferenCe.
 </div>
 </div>
 
