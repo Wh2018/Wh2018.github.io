@@ -7,7 +7,7 @@
 [Cascade Context-oriented Spatio-temporal Attention Network for Efficient and Fine-grained Video-grounded Dialoguesh](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40387-w) \\
 **Hao Wang**, Bin Guo, Mengqi Chen, Yasan Ding, Ying Zhang, Zhiwen Yu
 
-- **Abstract**: We propose a novel system, namely Cascade cOntext-oriented Spatial-Temporal Attention Network (COSTA), to generate reasonable responses efficiently and accurately. Specifically, COSTA first adopts a cascade attention network to localize only the most relevant video clips and regions in a coarse-to-fine manner which effectively filters the irrelevant visual semantics. Secondly, we design a memory distillation-inspired iterative visual-textual cross-attention strategy to progressively integrate visual semantics with dialogue contexts across varying granularities, facilitating extensive multi-modal alignment. Experiments on several benchmarks demonstrate significant improvements in our model over state-of-the-art methods across various metrics. Our codes are available at https://github.com/Wh2018/ COSTA.
+- Video-Grounded Dialogue System (VGDS), focusing on generating reasonable responses based on multi-turn dialogue contexts and a given video, has received intensive attention recently. We propose a novel system, namely Cascade cOntext-oriented Spatial-Temporal Attention Network (COSTA), to generate reasonable responses efficiently and accurately. 
 </div>
 </div>
 
