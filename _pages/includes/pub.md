@@ -1,17 +1,14 @@
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FCS 2024</div><img src='images/Architecture_FCS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FCS 2024</div><img src='images/Architecture_FCS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cascade Context-oriented Spatio-temporal Attention Network for Efficient and Fine-grained Video-grounded Dialoguesh](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40387-w) \\
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
-
-[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+**Hao Wang**, Bin Guo, Mengqi Chen, Yasan Ding, Ying Zhang, Zhiwen Yu
 
 - FastSpeech is the first fully parallel end-to-end speech synthesis model.
-- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
-- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
+- **Abstract**: Video-Grounded Dialogue System (VGDS), focusing on generating reasonable responses based on multi-turn dialogue contexts and a given video, has received intensive attention recently. The key to building a superior VGDS lies in efficiently reasoning over visual and textual concepts of various granularities and achieving comprehensive visual-textual multi-modality alignment. Despite remarkable research progress, existing studies suffer from identifying context-relevant video parts while disregarding the impact of redundant information in long-form and content-dynamic videos. Further, current methods usually align all semantics in different modalities uniformly using a one-time crossattention scheme, which neglects the sophisticated correspondence between various granularities of visual and textual concepts (e.g., still objects with nouns, dynamic events with verbs). To this end, we propose a novel system, namely Cascade cOntextoriented Spatial-Temporal Attention Network (COSTA), to generate reasonable responses efficiently and accurately. Specifically, COSTA first adopts a cascade attention network to localize only the most relevant video clips and regions in a coarse-to-fine manner which effectively filters the irrelevant visual semantics. Secondly, we design a memory distillation-inspired iterative visual-textual cross-attention strategy to progressively integrate visual semantics with dialogue contexts across varying granularities, facilitating extensive multi-modal alignment. Experiments on several benchmarks demonstrate significant improvements in our model over state-of-the-art methods across various metrics. Our codes are available at https://github.com/Wh2018/ COSTA.
 </div>
 </div>
 
