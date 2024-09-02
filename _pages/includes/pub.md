@@ -15,7 +15,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML-PKDD 2024</div><img src='images/Model_Architecture_ECML.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Memory-enhanced Emotional Support Conversations with Motivation-driven Strategy Inference](https://ecmlpkdd.org/2024/program-accepted-papers-research-track) \\
+[Memory-enhanced Emotional Support Conversations with Motivation-driven Strategy Inference](https://link.springer.com/chapter/10.1007/978-3-031-70362-1_13) \\
 **Hao Wang**, Bin Guo, Mengqi Chen, Yasan Ding, Qiuyun Zhang, Ying Zhang, Zhiwen Yu
 
 - The prevalence of mental disorders is increasing globally, highlighting the need for effective emotional support systems. Emotional Support Conversation (ESC) systems have emerged as a promising solution, providing supportive responses to individuals experiencing emotional distress. we propose MAGIC, a Memory-enhanced emotional support conversation system with motivation-driven strAteGy InferenCe.
@@ -45,6 +45,7 @@ Mengqi Chen, Bin Guo, **Hao Wang**, Haoyu Li, Qian Zhao, Jingqi Liu, Yasan Ding,
 </div>
 </div>
 
+-'IPM 2024' [EvolveDetector: Towards an Evolving Fake News Detector for Emerging Events with Continual Knowledge Accumulation and Transfer](X), Yasan Ding, Bin Guo, Yan Liu, Yao Jing, Maolong Yin, Nuo Li, **Hao Wang**, et al.
 - `ECAI 2023` [PiercingEye: Identifying Both Faint and Distinct Clues for Explainable Fake News Detection with Progressive Dynamic Graph Mining](https://ebooks.iospress.nl/doi/10.3233/FAIA230315), Yasan Ding, Bin Guo, Yan Liu, **Hao Wang**, et al.
 - `Neurocomputing 2021` [Towards information-rich, logical dialogue systems with knowledge-enhanced neural models](https://www.sciencedirect.com/science/article/pii/S0925231221013424), **Hao Wang**, Bin Guo, et al.
 - ``TKDD 2021`` [DeepDepict: enabling information-rich, personalized product description generation with the deep multiple pointer generator network](https://dl.acm.org/doi/10.1145/3446982), Shaoyang Hao, Bin Guo, **Hao Wang**, et al.
