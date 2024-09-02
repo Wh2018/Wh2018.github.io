@@ -1,5 +1,5 @@
 
-# 📝 Publications 
+# 📝 Representative Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FCS 2024</div><img src='images/Architechure_FCS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
