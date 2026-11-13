@@ -1,0 +1,19 @@
+type = "card"
+title = "Awards"
+description = "Honors and awards I have received."
+
+[[items]]
+title = "陕西省计算机学会优秀博士学位论文"
+subtitle = "陕西省计算机学会"
+date = "2025 年 7 月"
+content = "论文题目：跨模态人机对话交互认知机理及智能生成方法研究"
+
+[[items]]
+title = "中国国际大学生创新大赛（2025）陕西赛区高教主赛道金奖"
+subtitle = "指导教师"
+date = "2025 年 9 月"
+
+[[items]]
+title = "中国国际大学生创新大赛（2025）陕西赛区青年红色筑梦之旅赛道银奖"
+subtitle = "指导教师"
+date = "2025 年 9 月"

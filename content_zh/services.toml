@@ -1,0 +1,10 @@
+type = "card"
+title = "学术服务"
+description = "学术服务与同行评议。"
+
+[[items]]
+title = "学术审稿人"
+subtitle = "AAAI、ACL、ACM MM、Frontiers of Computer Science、IPM"
+date = "长期"
+content = "担任国际顶级学术期刊与会议的审稿人。"
+tags = ["同行评议"]

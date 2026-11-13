@@ -1,0 +1,96 @@
+[site]
+title = "Hao Wang"
+description = "Hao Wang is an Assistant Professor at the School of Journalism and New Media, Xi'an Jiaotong University. His research focuses on LLM agents, agent-based social simulation, and intelligent communication."
+favicon = "/favicon.svg"
+last_updated = "November 13, 2026"
+
+[author]
+name = "Hao Wang"
+title = "Assistant Professor"
+institution = "Xi'an Jiaotong University"
+avatar = "/bio.jpg"
+
+[social]
+# Contact information (leave blank or delete to hide)
+
+email = "haowangx@xjtu.edu.cn"
+location = "Xi'an, Shaanxi, China"
+location_url = "https://www.google.com/maps/search/?api=1&query=Xi%27an%20Jiaotong%20University%20Xingqing%20Campus"
+location_details = [
+  "School of Journalism and New Media,",
+  "Xi'an Jiaotong University, Xingqing Campus,",
+  "28 Xianning West Road, Beilin District,",
+  "Xi'an, Shaanxi, China"
+]
+google_scholar = "https://scholar.google.com.hk/citations?user=PeY6HBkAAAAJ"
+
+# Add these if you have them
+# orcid = "https://orcid.org/0000-0000-0000-0000"
+# github = "https://github.com/your-username"
+# linkedin = "https://www.linkedin.com/in/your-username"
+
+[features]
+# Show a like button on the about page
+enable_likes = true
+
+# Display all subpages on a single page
+enable_one_page_mode = false
+
+[i18n]
+enabled = true
+locales = ["zh", "en"]
+default_locale = "en"
+# "auto" means the locale will be determined by the browser's language setting, "fixed" means the locale will be fixed to the default locale (but can be switched still, if you want to disable, set "enable=false")
+mode = "fixed"
+fixed_locale = "en"
+# If true, PRISM will remember user's language preference in browser's localStorage
+# (with persist = true, a visitor who once switched to 中文 would be served 中文 on the next visit)
+persist = false
+# Show a language switcher on the top right corner
+switcher = true
+
+[i18n.labels]
+zh = "中文"
+en = "English"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Projects"
+type = "page"
+target = "projects"
+href = "/projects"
+
+[[navigation]]
+title = "Teaching"
+type = "page"
+target = "teaching"
+href = "/teaching"
+
+[[navigation]]
+title = "Awards"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "Services"
+type = "page"
+target = "services"
+href = "/services"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"

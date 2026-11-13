@@ -1,0 +1,29 @@
+type = "about"
+title = "关于我"
+
+[profile]
+research_interests = [
+  "大模型智能体",
+  "智能体社会模拟",
+  "智能传播",
+  "舆情分析与治理"
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "关于我"
+
+[[sections]]
+id = "featured_publications"
+type = "publications"
+title = "精选论文"
+filter = "selected"
+limit = 5
+
+[[sections]]
+id = "news"
+type = "list"
+title = "动态"
+source = "news.toml"

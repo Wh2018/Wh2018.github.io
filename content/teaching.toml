@@ -1,0 +1,10 @@
+type = "card"
+title = "Teaching"
+description = "Courses I teach at the School of Journalism and New Media."
+
+[[items]]
+title = "智能编程"
+subtitle = "新闻与新媒体学院智能传播方向专业核心课程"
+date = "2026-2027 学年秋季学期"
+content = "面向智能传播方向开设的专业核心课程。"
+tags = ["专业核心课程", "智能传播方向"]

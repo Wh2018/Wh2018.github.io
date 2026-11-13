@@ -1,0 +1,62 @@
+[site]
+title = "王豪"
+description = "王豪，西安交通大学新闻与新媒体学院助理教授、青年优秀人才，研究方向为大模型智能体、智能体社会模拟、智能传播与舆情分析治理。"
+last_updated = "2026年11月13日"
+
+[author]
+name = "王豪"
+title = "助理教授"
+institution = "西安交通大学"
+
+[social]
+email = "haowangx@xjtu.edu.cn"
+location = "中国·陕西·西安"
+location_url = "https://www.google.com/maps/search/?api=1&query=%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%85%B4%E5%BA%86%E6%A0%A1%E5%8C%BA"
+location_details = [
+  "新闻与新媒体学院，",
+  "西安交通大学兴庆校区，",
+  "陕西省西安市碑林区咸宁西路 28 号"
+]
+google_scholar = "https://scholar.google.com.hk/citations?user=PeY6HBkAAAAJ"
+
+[[navigation]]
+title = "关于我"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "论文"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "项目"
+type = "page"
+target = "projects"
+href = "/projects"
+
+[[navigation]]
+title = "教学"
+type = "page"
+target = "teaching"
+href = "/teaching"
+
+[[navigation]]
+title = "奖项"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "服务"
+type = "page"
+target = "services"
+href = "/services"
+
+[[navigation]]
+title = "简历"
+type = "page"
+target = "cv"
+href = "/cv"

@@ -1,0 +1,10 @@
+type = "card"
+title = "Services"
+description = "Academic service and peer review."
+
+[[items]]
+title = "Reviewer"
+subtitle = "AAAI, ACL, ACM MM, Frontiers of Computer Science, IPM"
+date = "Ongoing"
+content = "Reviewer for leading international conferences and journals in artificial intelligence and multimedia."
+tags = ["Peer Review"]
